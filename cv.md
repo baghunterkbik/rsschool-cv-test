@@ -1,5 +1,5 @@
 # Kanstantsin Bykauskikh
-![My photography](../kostyabik.JPG "Photo")
+![My photography](../rsschool-cv/kostyabik.JPG "Photo")
 ## My Contact Info:
 - **Phone -** *+375(29)642-52-73 (A1)*
 - **E-mail -** *[qwrw63@gmail.com](qwrw63@gmail.com "link")*
